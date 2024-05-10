@@ -1,43 +1,40 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(MyApp());
+import 'package:vega/formularioCompra.dart';
+import 'package:vega/formularioProducto.dart';
+import 'package:vega/formularioProveedor.dart';
+import 'package:vega/formularioUsuario.dart';
+import 'formularioVenta.dart';
+
+void main() {
+  runApp(MyApp());
+}
 
 class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+  static const String form1 = Formulario1.routeName;
+  static const String form2 = Formulario2.routeName;
+  static const String form3 = Formulario3.routeName;
+  static const String form4 = Formulario4.routeName;
+  static const String form5 = Formulario5.routeName;
+
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      // Application name
-      title: 'Flutter Hello World',
-      // Application theme data, you can set the colors for the application as
-      // you want
+      debugShowCheckedModeBanner: false,
+      title: 'Ejemplo Drawer Menu',
       theme: ThemeData(
-        // useMaterial3: false,
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.red,
+        visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      // A widget which will be started on application startup
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
-    );
-  }
-}
-
-class MyHomePage extends StatelessWidget {
-  final String title;
-  const MyHomePage({super.key, required this.title});  
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        // The title text which will be shown on the action bar
-        title: Text(title),
-      ),
-      body: Center(
-        child: Text(
-          'Hello, World!',
-        ),
-      ),
+      routes: {
+        form1: (context) => Formulario1(),
+        form2: (context) => Formulario2(),
+        form3: (context) => Formulario3(),
+        form4: (context) => Formulario4(),
+        form5: (context) => Formulario5(),
+      },
+      home: Formulario1(),
     );
   }
 }
