@@ -17,3 +17,14 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+##Resultado Drawer
+![drawer](https://github.com/VegaTapiaGemaKarina/A10-Formulatios-0400/assets/144732543/69b21887-56e4-46e3-aea3-45363d3213e0)
+##Fromurarios
+![1](https://github.com/VegaTapiaGemaKarina/A10-Formulatios-0400/assets/144732543/34c762f0-e78d-4c41-b48d-1415987c1585)
+![3](https://github.com/VegaTapiaGemaKarina/A10-Formulatios-0400/assets/144732543/3c18d318-3a88-4cb8-b250-71fd41f69bd2)
+![2](https://github.com/VegaTapiaGemaKarina/A10-Formulatios-0400/assets/144732543/6b630877-debb-4614-b91f-d9b06b433b99)
+![5compra](https://github.com/VegaTapiaGemaKarina/A10-Formulatios-0400/assets/144732543/2c86ee78-a5db-4e98-b3b9-aea0356aa2e6)
+![4](https://github.com/VegaTapiaGemaKarina/A10-Formulatios-0400/assets/144732543/945481e2-bc37-433c-adbb-95d32615d972)
+
+
