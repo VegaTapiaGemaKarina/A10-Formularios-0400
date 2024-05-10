@@ -27,8 +27,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Tabla Producto
 ![2](https://github.com/VegaTapiaGemaKarina/A10-Formulatios-0400/assets/144732543/6b630877-debb-4614-b91f-d9b06b433b99)
 ## Tabla Proveedor
-![5compra](https://github.com/VegaTapiaGemaKarina/A10-Formulatios-0400/assets/144732543/2c86ee78-a5db-4e98-b3b9-aea0356aa2e6)
-## Tabla Compra
 ![4](https://github.com/VegaTapiaGemaKarina/A10-Formulatios-0400/assets/144732543/945481e2-bc37-433c-adbb-95d32615d972)
-
+## Tabla Compra
+![5compra](https://github.com/VegaTapiaGemaKarina/A10-Formulatios-0400/assets/144732543/2c86ee78-a5db-4e98-b3b9-aea0356aa2e6)
 
